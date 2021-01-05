@@ -17,7 +17,7 @@
  输出: 1
  解释: 因为无重复字符的最长子串是 "b"，所以其长度为 1。
  **********************************************************************************/
-package com.lc;
+package com.lc.code;
 
 import java.util.HashSet;
 import java.util.Set;

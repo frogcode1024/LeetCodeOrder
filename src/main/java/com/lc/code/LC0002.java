@@ -17,7 +17,7 @@
  解释：342 + 465 = 807.
  **********************************************************************************/
 
-package com.lc;
+package com.lc.code;
 
 //Definition for singly-linked list.
 class ListNode {

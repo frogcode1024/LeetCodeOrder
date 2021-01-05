@@ -19,7 +19,7 @@
  输入：nums = [3,2,4], target = 6
  输出：[1,2]
  **********************************************************************************/
-package com.lc;
+package com.lc.code;
 
 import java.util.Arrays;
 import java.util.HashMap;
